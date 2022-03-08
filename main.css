@@ -1,0 +1,14 @@
+form{
+    border: 1px solid;
+    border-radius:5px;
+    top:0;right:0;left:0;margin: auto;position: absolute;
+    margin-top: 100px; width: 400px;
+    padding: 10px;
+}
+input{
+    height: 35px;width:98%;border: 1px solid gray;
+}
+#sub{
+    background: rgb(0, 119, 255);color: white;
+    border: none;border-radius: 5px;
+}
